@@ -1,0 +1,5 @@
+# CoreLib
+Small utility library for C++ that I hope someone will find helpful.
+For usage examples see `src/*.tests.cpp`.
+
+Tested on linux x64 with LLVM 16.
